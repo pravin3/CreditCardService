@@ -102,7 +102,7 @@ The swagger and the monitor route can be altered in the `.env` file.
 | **/api**       | Shows us the name, description and the version of the package.json |
 | **/swagger**   | This is the Swagger UI with our API documentation |
 | **/monitor**   | Shows a small monitor page for the server |
-| **/api/cards** | Example entity endpoint |
+| **/api/cards** | Cards endpoint |
 
 
 ## ❯ Project Structure
